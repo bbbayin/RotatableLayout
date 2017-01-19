@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PulltoLook.iml" filepath="$PROJECT_DIR$/PulltoLook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rotatablecardlib/rotatablecardlib.iml" filepath="$PROJECT_DIR$/rotatablecardlib/rotatablecardlib.iml" />
+    </modules>
+  </component>
+</project>
