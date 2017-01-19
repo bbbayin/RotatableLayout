@@ -3,6 +3,11 @@
 # PreView
 ![screenshoot](https://github.com/ShaqCc/RotatableLayout/blob/master/RotatableProject/screenshoot/preview.gif)
 # Usage
+## Step1
+
+compile 'com.superbro:rotatablecardlib:unspecified'
+
+## Step2
 在xml文件中直接引用：
 ```
     <com.shaqcc.rotatablecard.view.RotatableLayout
