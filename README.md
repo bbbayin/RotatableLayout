@@ -1,5 +1,7 @@
 # RotatableLayout
 点击可以翻转的layout
+# PreView
+![screenshoot](https://github.com/ShaqCc/RotatableLayout/blob/master/RotatableProject/screenshoot/preview.gif)
 # Usage
 在xml文件中直接引用：
 ```
