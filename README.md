@@ -5,7 +5,7 @@
 # Usage
 ## Step1
 
-compile 'com.superbro:rotatablecardlib:unspecified'
+compile 'com.shaqcc.rotatablecard:rotatablecardlib:1.0.0'
 
 ## Step2
 在xml文件中直接引用：
